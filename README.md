@@ -5,7 +5,7 @@
 
 - __Lab 1:__ Introduction to language representations via the creation of a spell checker and the implementation of a sentiment classification model.
 
-- __Lab 2:__
+- __Lab 2:__ Implementation of a speech recoginition system using the KALDI TOOLKIT.
 
 - __Lab 3:__
 
