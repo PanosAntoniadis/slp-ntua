@@ -7,7 +7,7 @@
 
 - __Lab 2:__ Implementation of a speech recoginition system using the KALDI TOOLKIT.
 
-- __Lab 3:__
+- __Lab 3:__ Text classification using various types of Neural Networks.
 
 
 In Lab 1 and Lab 3 the folder __ProLab__ contains a preparation of the concepts that are used in the exercise.
