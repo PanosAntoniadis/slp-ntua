@@ -1,7 +1,7 @@
 # Implementation of a phone recognition system using the KALDI toolkit
 
-## The design of the system can be divided in 4 steps
-
+## About the project
+The design of the system can be divided in 4 steps
 - Extraction of Mel-Frequency Cepstral Coefficients.
 - Language model training.
 - Acoustic model training.
