@@ -1,17 +1,17 @@
 # Implementation of a phone recognition system using the KALDI toolkit
 
-### The design of the system can be divided in 4 steps:
+## The design of the system can be divided in 4 steps
 
 - Extraction of Mel-Frequency Cepstral Coefficients.
 - Language model training.
 - Acoustic model training.
 - Combination of above models and evaluation.
 
-### Dataset :
+## Dataset 
 
 The dataset used includes recordings from four speakers from USC-timit database . Each speaker corresponds to 460 sentences resulting in one .wav file per sentence along the transciption. 
 
-### Table of contents:
+## Table of contents
 
 - __report.pdf:__ The report of the project where all the procedure of the design is described and the evaluation of the model takes place.
 
@@ -28,7 +28,6 @@ The dataset used includes recordings from four speakers from USC-timit database 
 - __perplexity.sh:__ Computes the perplexity of the language model.
 
 - __Remaining scripts are based on the steps in the probled-description:__
-
   - PROLAB: run ./prolab.sh
   - LAB 4.1: run ./lab4_1.sh
   - LAB 4.2: run ./lab4_2.sh
