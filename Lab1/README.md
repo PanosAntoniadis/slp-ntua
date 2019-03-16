@@ -6,7 +6,7 @@
 
 - ### Part 1: Spell checker
 
-  In the first part, our goal is the implementation of a spell checker using finite state machines. The FSTs are designed with the [OpenFst](<http://www.openfst.org/twiki/bin/view/FST/WebHome>) library. The steps are described in project-statement.pdf and the implementation in the jupyter notebooks.
+  In the first part, our goal is the implementation of a spell checker using finite state machines. The FSTs are designed with the [OpenFst](<http://www.openfst.org/twiki/bin/view/FST/WebHome>) library. The steps are described in project-statement.pdf and the implementation is in the jupyter notebooks.
 
 - ### Part 2: Sentiment analysis
 
@@ -16,8 +16,7 @@
 
 ## Table of contents:
 
-- __ProLab:__ Contains a preparation of the spell checker and a introduction to word embeddings.:
+- __ProLab:__ Contains a preparation of the spell checker and a introduction to word embeddings.
 - __Lab:__ Contains the main part of the project.
 - __ProLab/report.ipynb and Lab/report.ipynb:__ The description and the whole implementation of the project in two parts.
-
-- The use of the remaining bash scripts is explained in the norebooks.
+- The use of the remaining bash scripts is explained in the notebooks.
