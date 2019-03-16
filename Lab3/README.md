@@ -19,7 +19,7 @@ In Prolab, a simple neural network is implemented as an introduction for the mai
 
 In Lab, the following models are implemented:
 
-- LSTM neural networks with different final representations.
+- LSTM neural networks with variosu final representations.
 - LSTM with attention layer.
 - BiLSTM with and without an attention layer.
 
