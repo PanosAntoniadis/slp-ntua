@@ -1,0 +1,14 @@
+{
+  "0": {
+    "name": "negative",
+    "desc": "bad tweet"
+  },
+  "1": {
+    "name": "neutral",
+    "desc": "neutral tweet"
+  },
+  "2": {
+    "name": "positive",
+    "desc": "positive tweet"
+  }
+}
