@@ -1,6 +1,6 @@
 # Sentiment classification using Deep Neural Networks
 
-The deep learning framework that is used is Pytorch.
+The deep learning framework that is used is [Pytorch](https://pytorch.org/).
 
 ## Datasets:
 
@@ -13,7 +13,7 @@ The embeddings that are used are [Glove embeddings](<https://nlp.stanford.edu/pr
 
 ## Prolab:
 
-In Prolab, a simple neural network is implemented using Pytorch as an introduction for the main part of the project. For more details see the prolab report.
+In Prolab, a simple neural network is implemented as an introduction for the main part of the project. For more details see the prolab report.
 
 ## Lab:
 
