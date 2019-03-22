@@ -1,4 +1,4 @@
-# Implementation of a phone recognition system using the KALDI toolkit
+# Implementation of a Phoneme recognition system using the KALDI toolkit
 
 ## About the project
 The design of the system can be divided in 4 steps
